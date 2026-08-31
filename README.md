@@ -23,7 +23,7 @@ A modern, production-ready template for building full-stack React applications u
 ## Getting Started
 
 Outside of this repo, you can start a new project with this template using [C3](https://developers.cloudflare.com/pages/get-started/c3/) (the `create-cloudflare` CLI):
-
+edit
 ```bash
 npm create cloudflare@latest -- --template=cloudflare/templates/react-router-starter-template
 ```
