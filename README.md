@@ -15,7 +15,7 @@ A modern, production-ready template for building full-stack React applications u
 - 📦 Asset bundling and optimization
 - 🔄 Data loading and mutations
 - 🔒 TypeScript by default
-- 🎉 TailwindCSS for styling
+- 🎉 TailwindCSS for stylingedit
 - 📖 [React Router docs](https://reactrouter.com/)
 - 🔎 Built-in Observability to monitor your Workeredit
 <!-- dash-content-end -->
